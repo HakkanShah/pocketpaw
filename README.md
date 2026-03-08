@@ -1,4 +1,4 @@
-<p align="center">  
+<p align="center">
   <img src="paw.png" alt="PocketPaw" width="100">
 </p>
 
